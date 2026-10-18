@@ -1,16 +1,28 @@
-## Hi there 👋
+# Nihat Hasan
 
-<!--
-**hvsxn/hvsxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at Penn State interested in machine learning, statistical analysis, and computer vision. My projects use Python, R, and MATLAB.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Who Wrote It? Identifying LLMs from Their Responses](https://github.com/hvsxn/cmpsc448-midterm)
+
+Compared CNN and LSTM classifiers across six experiments to distinguish GPT-4, Claude, and Vicuna responses. The best configuration achieved **70.25% accuracy** on responses from unseen prompts.
+
+**Tools:** Python, PyTorch, pandas, scikit-learn.  
+**Context:** Individual CMPSC 448 course project.
+
+### [College Costs and Student Outcomes](https://github.com/hvsxn/stat184-final-project)
+
+Analyzed College Scorecard data for **1,602 institutions**, comparing net prices and graduation outcomes across states, regions, and institution types.
+
+I was the primary contributor to completing and revising the final analysis and report.
+
+**Tools:** R, tidyverse, ggplot2, Quarto.  
+**Context:** Three-person STAT 184 course project.
+
+### [Camera Projection and 3D Reconstruction](https://github.com/hvsxn/camera-projection-3d-reconstruction)
+
+Implemented calibrated camera projection, pixel-to-ray backprojection, and two-view triangulation. Evaluated reconstruction across **25,758 motion-capture frames**, with error statistics, skeleton visualizations, and epipolar geometry.
+
+**Tools:** MATLAB, camera geometry, linear algebra.  
+**Context:** CMPEN/EE 454 course project.
